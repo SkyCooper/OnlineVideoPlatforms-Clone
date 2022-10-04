@@ -4,7 +4,7 @@
 
 ## Animation of the Website
 
-![image](https://github.com/SkyCooper/CodingChallange/blob/main/clone.gif)
+![image](https://github.com/SkyCooper/CodingChallange/blob/main/clones.gif)
 
 ## Visualization of the Website
 ![image](./images/netflixform.png)
